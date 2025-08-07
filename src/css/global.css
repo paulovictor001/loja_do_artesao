@@ -63,3 +63,10 @@ header img {
     
 }
 
+footer{
+    background-color: #396132;
+    color: white !important;
+    text-align: center;
+    font-size: 0.8rem;
+    padding: 2em;
+}
