@@ -21,51 +21,25 @@
     border-radius: 0.8em;
 }
 
-.description h2{
+.description > h2{
     font-size: 2em;
-    margin-bottom: 1em;
+    margin-bottom: 1em !important;
     color: #08841a ;
 }
 
 .description p{
     line-height: 1.5em;
-    font-family: "Sansation", sans-serif;
 }
 
-
-.main {
-    font-family: "Sansation", sans-serif;
-    margin: 50px;
-    background-color: #08841a;
-    padding: 50px;
-
- }
-    
-.section {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 40px;
-    gap: 100px;
+.color-card-1{
+    background-color: #21e00450;
 }
 
-.section img {
-    width: 250px; 
+.color-card-2{
+    background-color: white;
+}
+
+.img-card-2{
+    width: 400px; 
     border-radius: 50%; 
-}
-
-.text {
-    max-width: 600px;
-}
-
-.text h2 {
-    font-size: 25px;
-    margin-bottom: 10px;
-    color: #08841a;
-}
-
-.text p {
-    font-size: 16px;
-    color: #555;
-    line-height: 1.5;
 }
