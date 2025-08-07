@@ -67,10 +67,13 @@ body, h1, h2, h3, h4, h5, h6, p, ul, ol {
 
 .description-product > p, h3{
     margin-bottom: 1em !important;
+    font-weight: bold;
 }
 
 .description-product > p{
     line-height: 1.3em;
+    font-weight: 100;
+    color: #51634d;
 }
 .box-cards-products  span{
     color: #283625;
@@ -79,16 +82,61 @@ body, h1, h2, h3, h4, h5, h6, p, ul, ol {
 }
 
 .button-add{
-    padding: 0.8em 1.5em;
+    padding: 0.5em 1em;
     border-radius: 0.8em;
     border: none;
     background-color: #21e0042c;
     color: #283625;
-    font-weight: bold;
-    margin-left: 2em !important;
+    margin-left: 1em !important;
 }
 .button-add:hover{
     background-color: #21e004;
     color: white;
     transition: 300ms;
+}
+
+.img-fluid {
+    height: 400px;
+}
+
+.box-categorias{
+    display: flex;
+    flex-direction: row;align-items: center;
+    justify-content: center;
+    padding: 1.5em;
+    background-color: white;
+    gap: 5em;
+    text-align: center;
+    margin-bottom: 150px !important;
+    border-radius: 0px 0px 0px 60%;
+    
+}
+
+.box-categorias h3{
+    color: #21e004b2;
+    margin-top: 1em !important;
+}
+
+.box-categorias img{
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid #21e0047c;
+}
+
+.box-categorias img:hover{
+    scale: 1.1;
+    box-shadow: 0px 0px 20px #14810325;
+    transition: 300ms;
+}
+
+.titulo-categoria{
+    color: #1cc202;
+    text-align: center;
+    font-size: 2em;
+    background-color: white;
+    padding: 2em 1em;
+    border-radius: 20% 40% 0px 0px;
+    background-color: #21e00417;
+    background:linear-gradient(to top,white, #21e00433, #21e0043d);
+
 }

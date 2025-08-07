@@ -9,6 +9,20 @@
     
 }
 
+#resumo{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap-reverse;
+    background-image: url("../img/artesanato8.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 700px;
+}
+
 .imagem-descripition > img{
     width: 400px;
     border-radius: 50% 0.5em;
