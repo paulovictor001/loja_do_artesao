@@ -1,0 +1,32 @@
+.box-description{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 2em !important;
+    flex-wrap: wrap-reverse;
+    background-color: #21e00450;
+    
+}
+
+.imagem-descripition > img{
+    width: 400px;
+    border-radius: 50% 0.5em;
+}
+
+.description{
+    max-width: 600px;
+    width: 600px;
+    padding: 1em;
+    border-radius: 0.8em;
+}
+
+.description h2{
+    font-size: 2em !important;
+    margin-bottom: 1em !important;
+    color: #08841a !important;
+}
+
+.description p{
+    line-height: 1.5em;
+}

@@ -17,3 +17,14 @@ pagina produtos:
 Listas de produtos vendidos, com imagens, título e valores (ao menos 6 produtos)
 Ao clicar no produto deve ser aberta uma pequena janela interna (modal) com
 descrição mais detalhada
+
+
+“Cada compra é mais do que um produto: é um gesto de valorização do artesanato amazônico, que preserva nossa cultura e gera renda justa para os artesãos da floresta.”
+
+Outras variações que você pode usar no site:
+
+“Ao adquirir nossos produtos, você leva para casa a arte da Amazônia e ajuda a manter viva a tradição de seus artesãos.”
+
+“Comprar aqui é investir na cultura amazônica: cada peça apoia diretamente famílias artesãs e fortalece a preservação da floresta.”
+
+“Nossos produtos carregam histórias da Amazônia e, a cada venda, novas histórias são escritas junto aos artesãos que mantêm viva essa herança cultural.”
