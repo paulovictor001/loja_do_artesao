@@ -1,7 +1,17 @@
+body, h1, h2, h3, h4, h5, h6, p, ul, ol {
+      margin: 0;
+      padding: 0;
+      font-size: 100%;
+      font-weight: normal;
+      line-height: normal;
+    }
+
 .titulo-produtos{
     display: flex;
     align-items: center;
     align-items:start;
+    background-color: white;
+    padding: 1em;
 }
 
 .titulo-produtos span{
@@ -26,6 +36,7 @@
     gap: 2em;
     padding: 1.5em;
     margin-bottom: 5em !important;
+    background-color: white;
 }
 .card-product{
     max-width: 250px;
@@ -67,7 +78,7 @@
 }
 
 .button-add{
-    padding: 0.8em 2em;
+    padding: 0.8em 1.5em;
     border-radius: 0.8em;
     border: none;
     background-color: #21e0042c;
