@@ -12,6 +12,7 @@
 .imagem-descripition > img{
     width: 400px;
     border-radius: 50% 0.5em;
+    object-fit: cover;
 }
 
 .description{

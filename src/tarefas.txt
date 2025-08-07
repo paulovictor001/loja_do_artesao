@@ -28,3 +28,22 @@ Outras variações que você pode usar no site:
 “Comprar aqui é investir na cultura amazônica: cada peça apoia diretamente famílias artesãs e fortalece a preservação da floresta.”
 
 “Nossos produtos carregam histórias da Amazônia e, a cada venda, novas histórias são escritas junto aos artesãos que mantêm viva essa herança cultural.”
+
+
+
+
+<p>
+                        Semijoia delicada, artesanal feita com pedras naturais de lápis lazuli e jaspe picture entalhado a mão com entremeios e fechamento folheados a prata. Feita com fio de aço.
+                        Tamanho da pulseira: 20 cm
+                    </p>
+
+
+<p>
+                        Tamanho do colar: 51 cm
+                        Semijoia delicada feita de pedras naturais de olho de tigre de 10 mm de tamanho.
+                    </p>
+
+                    <p>
+                        Joia artesanal feita com perdras naturais de jaspe picasso de 6 mm e hematitas de 2 mm
+                        Tamanho do colar : 48 cm
+                    </p>
