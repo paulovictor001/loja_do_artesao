@@ -1,0 +1,19 @@
+carrosel de imagens 
+catálogo de produtos
+modal de produtos
+responsividade
+padrão das cores
+menu de navegação
+
+pagina principal:
+- menu de navegação
+- carrosel de imagens
+- destaques principais
+
+pagina sobre:
+- Aborda textualmente e imagens de Belém e do artesanato em Belém e no Pará
+
+pagina produtos:
+Listas de produtos vendidos, com imagens, título e valores (ao menos 6 produtos)
+Ao clicar no produto deve ser aberta uma pequena janela interna (modal) com
+descrição mais detalhada
