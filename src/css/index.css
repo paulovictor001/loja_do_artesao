@@ -1,0 +1,46 @@
+.container{
+
+}
+
+#descricao{
+    max-width: 600px;
+}
+#descricao h1{
+    font-size: 3em;
+    margin-bottom: 1em;
+    color: #ffffff;
+}
+#descricao p{
+    line-height: 1.3em;
+    font-family:'Dancing Script';
+    font-size: 2em;
+    font-weight: bold;
+    color: #ffffff;
+    margin-bottom: 1em;
+}
+
+#resumo{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap-reverse;
+    background-image: url("https://i0.wp.com/teologiabrasileira.com.br/wp-content/uploads/2023/04/thumbnail_franciscoacacio_imagemartigo_ovasodooleiro.jpg?fit=696%2C466&ssl=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 800px;
+}
+
+#button_produtos{
+    background-color: #21e0048a;
+    color: white;
+    padding: 0.8em 1.3em;
+    border-radius: 0.8em;
+}
+#button_produtos:hover{
+    background-color: #21e004c9;
+    transition: 300ms;
+}
+
