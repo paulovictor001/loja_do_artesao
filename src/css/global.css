@@ -7,13 +7,14 @@
 }
 
 *{
-    margin: 0px;
+    margin: 0px !important;
     padding: 0px;
-    text-decoration: none;
+    text-decoration: none !important;
     box-sizing: border-box;
     color: black;   
     font-family: sans-serif;
 }
+
 body{
     background-color: #F8F9FA;
 }
@@ -34,11 +35,11 @@ header > p{
 .navbar > ul{
     list-style: none;
     display: flex;
-    gap: 1.5em;
+    gap: 1.5em !important;
 }
 .navbar a{
     color: #22e004;
-    padding: 0.4em 2em;
+    padding: 0.4em 2em !important;
     border-radius: 0.8em;
     font-weight: bold;
 }

@@ -1,5 +1,10 @@
 .container{
-
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    max-width: 100%;
 }
 
 #descricao{
@@ -7,7 +12,7 @@
 }
 #descricao h1{
     font-size: 3em;
-    margin-bottom: 1em;
+    margin-bottom: 1em !important;
     color: #ffffff;
 }
 #descricao p{
@@ -16,7 +21,7 @@
     font-size: 2em;
     font-weight: bold;
     color: #ffffff;
-    margin-bottom: 1em;
+    margin-bottom: 1em !important;
 }
 
 #resumo{
@@ -31,16 +36,20 @@
     background-attachment: fixed;
     background-position: center;
     height: 800px;
+    margin-bottom: 300px !important;
 }
 
 #button_produtos{
     background-color: #21e0048a;
     color: white;
-    padding: 0.8em 1.3em;
-    border-radius: 0.8em;
+    padding: 0.8em 1.3em !important;
+    border-radius: 0.8em ;
 }
 #button_produtos:hover{
     background-color: #21e004c9;
     transition: 300ms;
 }
 
+.carousel-section{
+    margin-bottom: 300px !important;
+}
