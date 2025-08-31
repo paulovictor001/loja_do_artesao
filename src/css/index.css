@@ -74,6 +74,8 @@
     font-family: "Sansation", sans-serif;
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    margin-top: 100px;
+
 }
 
 .card:hover {
@@ -125,4 +127,24 @@
 .card3 p {
     position: relative;
     top: 10px;
+}
+
+.card4 a {
+    position: relative;
+    top: 25px;
+}
+
+.card6 a {
+    position: relative;
+    top: 45px;
+}
+
+.card6 p {
+    position: relative;
+    top: 15px;
+}
+
+.destaques {
+    text-align: center;
+    border-radius: 20px;
 }
