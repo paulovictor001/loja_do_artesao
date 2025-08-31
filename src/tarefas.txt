@@ -17,3 +17,6 @@ pagina produtos:
 Listas de produtos vendidos, com imagens, título e valores (ao menos 6 produtos)
 Ao clicar no produto deve ser aberta uma pequena janela interna (modal) com
 descrição mais detalhada
+
+
+
