@@ -148,3 +148,12 @@
     border-radius: 20px;
     margin-top: 100px !important;
 }
+
+.diferente {
+    color: #08841a;
+    font-weight: bold;
+}
+
+.decricao h1 {
+    font-weight: bold;
+}

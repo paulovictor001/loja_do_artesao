@@ -31,7 +31,6 @@ body{
 header{
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
     justify-content:space-around;
     align-items:center;
     height: 80px;
@@ -57,3 +56,10 @@ header > p{
     color: white;
     transition: 300ms;
 }
+header img {
+    width: 350px;
+    position: relative;
+    top: -15px;
+    
+}
+
